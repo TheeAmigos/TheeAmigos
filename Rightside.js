@@ -125,5 +125,4 @@ const BannerCard = styled(FollowCard)`
     height: 100%;
   }
 `;
-
 export default Rightside;
